@@ -1,4 +1,4 @@
-### Hi there 👋 👋 Hi there! I'm Arish Akhtar Qureshi,
+### 👋 Hi there! I'm Arish Akhtar Qureshi,
 
 - A passionate Software Engineer with a keen interest in DevOps practices.I'm dedicated to leveraging technology to drive innovation and efficiency.
 - 🚀 With hands-on experience in AWS, Python, Shell scripting, Linux, Terraform, Docker, Git & GitHub, Jenkins, and Kubernetes, I'm committed to continuous learning and staying updated with the latest industry trends.
